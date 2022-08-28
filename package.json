@@ -5,8 +5,7 @@
   "main": "index.js",
   "scripts": {
     "start": "node server.js",
-    "start:dev": "nodemon server.js",
-    "heroku-postbuild": "ng build --prod"
+    "start:dev": "nodemon server.js"
   },
   "author": "",
   "license": "ISC",
