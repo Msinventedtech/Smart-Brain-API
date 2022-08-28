@@ -4,9 +4,7 @@
   "description": "",
   "main": "index.js",
   "scripts": {
-    "start": "node server.js",
-    "start:dev": "nodemon server.js",
-    "heroku-prebuild": "npm install --only=dev"
+    "start": "nodemon server.js",
   },
   "author": "",
   "license": "ISC",
